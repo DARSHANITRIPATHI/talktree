@@ -6,7 +6,7 @@ import { Navigate,Routes,Route } from 'react-router-dom';
 import Login from './pages/login/Login';
 
 import { Toaster } from 'react-hot-toast';
-import SignUp from './pages/signup/SignUp.jsx';
+import SignUp from './pages/signup/SignUp';
 import { useAuthContext } from './context/AuthContext';
 
 
